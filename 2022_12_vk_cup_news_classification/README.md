@@ -1,5 +1,3 @@
-#ds/соревнования/multiclassification
-
 193 место из 500 участников, простое решение на CatBoost, многоклассовая классификация.
 
 ![Screenshot](_files/193_places.png)
