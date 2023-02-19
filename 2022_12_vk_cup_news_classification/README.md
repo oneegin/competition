@@ -2,7 +2,7 @@
 
 193 место из 500 участников, простое решение на CatBoost, многоклассовая классификация.
 
-![Screenshot](_files/193_places.png|400)
+![Screenshot](_files/193_places.png)
 
 
 # Описание задачи
